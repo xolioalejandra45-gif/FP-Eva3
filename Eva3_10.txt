@@ -1,0 +1,35 @@
+C:\Users\Administrator>cd..
+
+C:\Users>cd..
+
+C:\>cd practicas
+
+C:\practicas>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: A4B1-DA99
+
+ Directorio de C:\practicas
+
+14/11/2025  04:52 p. m.    <DIR>          .
+14/11/2025  04:52 p. m.               112 Prueba.java
+               1 archivos            112 bytes
+               1 dirs  923,188,576,256 bytes libres
+
+C:\practicas>javac Prueba.java
+
+C:\practicas>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: A4B1-DA99
+
+ Directorio de C:\practicas
+
+24/11/2025  04:31 p. m.    <DIR>          .
+24/11/2025  04:31 p. m.               416 Prueba.class
+14/11/2025  04:52 p. m.               112 Prueba.java
+               2 archivos            528 bytes
+               1 dirs  923,188,404,224 bytes libres
+
+C:\practicas>java Prueba
+Hola mundo
+
+C:\practicas>
